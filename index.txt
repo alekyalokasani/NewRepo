@@ -1,1 +1,2 @@
-Hi My name is Alekya
+Hi My name is Aleky
+x="10"
